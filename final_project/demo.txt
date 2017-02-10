@@ -1,0 +1,6 @@
+python RetrieveAlignment.py P0AC86 P06738
+python RetrieveAlignment.py ecoliANDyeast.db3 P0AC86 P06738
+python RetrieveAlignment.py ecoliANDyeast.db3 P0AC8E P06738
+python RetrieveAlignment.py ecoliANDyeast.db3 P0AC86 P0673E
+python RetrieveAlignment.py ecoliANDyeast.db3 P0AC86 P28306
+python Orthologs.py ecoliANDyeast.db3 1e-10
